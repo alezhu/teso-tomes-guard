@@ -1,7 +1,7 @@
 -- TomesGuard Localization: Russian
 
 local strings = {
-    SI_TOMESGUARD_WARNING              = "Сначала закройте <<1>> перед открытием «Фолиантов Тариэля»!",
+    SI_TOMESGUARD_WARNING              = "Сначала закройте <<1>> перед открытием «Фолиантов Тамриэля»!",
     SI_TOMESGUARD_SCENE_MAILINBOX      = "почту",
     SI_TOMESGUARD_SCENE_MAILSEND       = "почту",
     SI_TOMESGUARD_SCENE_INVENTORY      = "инвентарь",

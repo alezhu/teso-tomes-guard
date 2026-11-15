@@ -6,3 +6,8 @@ Thumbs.db
 SavedVariables/
 Logs/
 *.bak
+
+# Build and distribution archives
+dist/
+releases/
+*.zip
